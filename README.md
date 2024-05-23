@@ -2,7 +2,8 @@
 
 **You can see information about my project**
 
-![view](https://user-images.githubusercontent.com/119683211/207164603-bbec3fc4-c7fc-4b1d-958e-5f5fed61f6bb.jpg)
+![view](![winery](https://github.com/RoyaBerelian/project-winery-bootstrap/assets/101290233/b18514c9-5733-46a4-8dba-af7199dcf1c3)
+)
 
 - [Demo Project](https://royaberelian.github.io/project-winery-bootstrap/)
 
