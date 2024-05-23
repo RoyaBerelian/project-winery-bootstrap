@@ -4,7 +4,7 @@
 
 ![view](https://user-images.githubusercontent.com/119683211/207164603-bbec3fc4-c7fc-4b1d-958e-5f5fed61f6bb.jpg)
 
-- [Demo Project](https://testpara.github.io/First/](https://royaberelian.github.io/project-winery-bootstrap/)
+- [Demo Project](https://royaberelian.github.io/project-winery-bootstrap/)
 
 - Developed by Roya berelian
 
