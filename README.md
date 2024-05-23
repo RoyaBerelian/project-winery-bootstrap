@@ -2,8 +2,8 @@
 
 **You can see information about my project**
 
-![view](![winery](https://github.com/RoyaBerelian/project-winery-bootstrap/assets/101290233/b18514c9-5733-46a4-8dba-af7199dcf1c3)
-)
+(![winery](https://github.com/RoyaBerelian/project-winery-bootstrap/assets/101290233/b18514c9-5733-46a4-8dba-af7199dcf1c3))
+
 
 - [Demo Project](https://royaberelian.github.io/project-winery-bootstrap/)
 
