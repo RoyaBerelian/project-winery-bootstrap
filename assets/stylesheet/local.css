@@ -1,0 +1,23 @@
+@media screen and (max-width:576px) {
+    .header-top {
+        height: 145px;
+    }
+    .header-bottom {
+        height: 90px;
+    }
+}
+
+@media screen and (min-width:577px) {
+    .header-top {
+        height: 195px;
+    }
+    .header-bottom {
+        height: 60px;
+    }
+}
+
+@media screen and (min-width:1400px) {
+    .banner{
+        height: 700px;
+    }
+}
